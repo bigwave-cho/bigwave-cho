@@ -9,7 +9,9 @@ Hi! I'm Jaehyeon.<br/>
 My goal is being a good Web-developer.<br/>
 Have a "Code Well" day. 👼
 
-
+ 
+ [![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@bigwave-cho)](https://velog.io/@bigwave-cho)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh.cho142857@gmail.com)](mailto:jh.cho142857@gmail.com)
 <br/><br/>
 
 
