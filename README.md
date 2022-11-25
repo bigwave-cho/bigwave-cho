@@ -36,8 +36,7 @@ Have a "Code Well" day. 👼
 
 
 배우는 중 -->>>> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<br>
- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ <br>
  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
